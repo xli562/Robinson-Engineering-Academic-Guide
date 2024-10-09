@@ -16,7 +16,7 @@
   #### Labs
 
   - Do pre-labs. Mark penalty associated with unsatisfactory preparation to the labs.
-  - Do plotting in the lab, to make sure enough desired data is obtained.
+  - Do plotting in the labs, to make sure enough desired data is obtained.
   - Book labs as early as possible, preferably before the intro lecture.
   - 2 hours in-person, 2-3 hours write-up. Notify lab leader if things take too long.
 
@@ -46,7 +46,7 @@
   #### Exams
 
   - 2 to 3 weeks at the start of Easter.
-  - 1.5 hours per module.
+  - 1.5h per module. (3h for double modules)
   - 10 x 60 marks.
 
   #### Projects
