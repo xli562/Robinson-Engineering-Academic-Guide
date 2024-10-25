@@ -1,0 +1,1 @@
+<!-- Part I supos are coordinated by the DoS (timeslots & supo parteners). -->
