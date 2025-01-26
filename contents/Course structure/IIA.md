@@ -11,13 +11,13 @@
   #### Lectures
 
   - Lecturers maintain the Moodle pages.
-  - 16 lectures per module.
+  - 16 one-hour lectures per module.
 
   #### Labs
 
-  - Do pre-labs. Mark penalty associated with unsatisfactory preparation to the labs.
+  - Read the handouts before the labs, or risk losing marks.
   - Do plotting in the labs, to make sure enough desired data is obtained.
-  - Book labs as early as possible, preferably before the intro lecture.
+  - Book labs as soon as slots become bookable in the [booking sheets]((http://to.eng.cam.ac.uk/teaching/apps/cuedle/listofbookingsheets.php)).
   - 2 hours in-person, 2-3 hours write-up. Notify lab leader if things take too long.
 
     ##### Short report
@@ -39,27 +39,21 @@
 
   #### Coursework
 
-  - Either a lab of a Business module report.
+  - Either a lab or a Business module report.
   - Available from each 3rd year module. Do them all, best 8 gets selected. Do them as early as possible.
   - 8 x 5 marks.
 
   #### Exams
 
-  - 2 to 3 weeks at the start of Easter.
+  - 2 to 3 weeks at the very start of Easter.
   - 1.5h per module. (3h for double modules)
   - 10 x 60 marks.
-
-  #### Projects
-
-  - After Tripos in Easter.
-  - Approx. 80 hours per project, mostly running in parallel.
-  - At least 1 group project.
-  - 2 x 80 marks.
 
 ### Extension Activities (ExAs)
 
 - Up to 12 hours in lab, around 16 hours in total.
 - 1 x 20 marks, standard credit.
+- Book the ExA as soon as slots become bookable in the [booking sheet]((http://to.eng.cam.ac.uk/teaching/apps/cuedle/listofbookingsheets.php)).
 
 ### General rules of thumb
 
@@ -68,6 +62,30 @@
 - Polite and constructive emails receive better treatment.
 - Always properly acknowledge others’ work to avoid plagiarism.
 - The library can help find data of, e.g., air quality index in London from 2000 to 2020.
+
+## Lent
+
+### IIA Projects
+
+#### General
+
+- Two projects after Tripos in Easter.
+- Approx. 80 hours per project, mostly running in parallel.
+- At least 1 group project.
+- 2 x 80 marks.
+- Read the [Part IIA project guide](https://teaching.eng.cam.ac.uk/node/444/). It is long, but has high information density.
+
+#### How to choose projects
+
+- Can only choose at most 2 'popular' projects.
+- Ask IIB students for their experiences with the projects. As of 2025, no feedback is available online for IIA projects.
+- For the ballot, input projects in your order of preference. Do not attempt to use 'strategies'.
+
+### IIB projects
+
+#### Self-proposed IIB projects
+
+- Speak to a professor and notify the teaching office before Week 3 if you are to self-propose your IIB project.
 
 ## References
 
