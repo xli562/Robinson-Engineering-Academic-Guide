@@ -12,5 +12,6 @@ uvwxyz
 | Abbreviation | Meaning |
 |--------------|---------|
 | DoS | Director of Studies |
+| EP | Examples Paper |
 | repo | repository |
 | supo | supervision |
