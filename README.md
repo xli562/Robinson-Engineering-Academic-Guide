@@ -25,7 +25,7 @@ Please follow the following best practices when commiting to this repository.
 - Follow the writing structure of the present work. Consistant writing styles are easier to read.
 - Be concise. Whenever you type anything, ask yourself, 'is this necessary? Is this *really* necessary?' If not, delete the relevant part.
 - This is an *academic* guide. Do not include irrelevant topics such as 'Finding supermarkets in Cambridge'.
-- Don't over-modularize. Question your impulse to modularize contents. A guide is often more readable if things are in the same document. See the various guides in [the teaching website](https://teaching.eng.cam.ac.uk/) for bad examples.
+- Don't over-modularize. Question your impulse to modularize contents. A guide is often more readable if things are in the same document. See the various guides in the [teaching website](https://teaching.eng.cam.ac.uk/) for bad examples.
 - Abbreviations. All abbreviations should be spelled out in `List of abbreviations.md`.
 - Use only English, unless you have very good reasons to do otherwise.
 - Use a Markdown linter (e.g. the 'markdownlint' VS Code extension) when writing Markdown.

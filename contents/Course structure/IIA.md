@@ -19,7 +19,7 @@
   - Plot out your data *during* the labs, to make sure enough desired data is obtained.
   - Book labs as soon as slots become bookable in the [booking sheets]((http://to.eng.cam.ac.uk/teaching/apps/cuedle/listofbookingsheets.php)).
   - 2 hours in-person, 2-3 hours write-up. Notify lab leader if things take too long.
-  - Finish as many labs as possible in Weeks 1 & 2. Supo work starts from Week 2. Marking criterion also tend to be looser before relevant contents are covered in the lectures.
+  - Finish as many labs as possible in Weeks 1 & 2. Supo work kicks in from Week 2. Marking criterion also tend to be looser before relevant contents are covered in the lectures.
 
     ##### Short report
 
