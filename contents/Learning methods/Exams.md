@@ -34,7 +34,7 @@ Time estimations are for reference.
 
 1. Outlining (1-1.5h). Quickly list out the course contents. Flip through the handouts, focus on the 'subtitles' only. Do not try to comprehend details. This is to revive your memory of the course structure. ('Ahh, so I have learned this before. I still don't quite get it, but I have a very rough idea of what it's for.')
 
-2. Sorting (3-4h). Sort past Tripos questions going back 5-10 years, but leaving out the most recent 2 years. Now that you know the course structure, sort the past tripos into separate exam-topics. Some contents are less frequently examined than others, while some details are never examined. Some contents are removed from the course over time, and new contents are often added in recent years. Sorting gives an idea of the required level of knowledge. Focus on the exam-topics and ignore other minutiae. It is impractical to fully understand everything in the handouts.
+2. Sorting (3-4h). Sort past Tripos questions going back 5-10 years, but leaving out the most recent 2 years. Now that you know the course structure, sort the past tripos into separate exam-topics. Some contents are less frequently examined than others, while some details are never examined. Some contents are removed from the course over time, and new contents are often added in recent years. Sorting gives an idea of the required level of knowledge. Focus on the exam-topics and ignore other minutiae. Fully understanding everything in the handouts is impractical.
 
 3. Do the easier questions open-book (6-12h). Pick apparantly easier questions from the sorted Tripos. This brushes up your Tripos skills. Open-book means no wasted time on recalling a particular piece of knowledge.
 

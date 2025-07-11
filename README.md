@@ -34,6 +34,10 @@ Please follow the following best practices when commiting to this repository.
 
 - If you have constructive comments regarding this repo, raise a GitHub issue. If you don't know how to raise an issue, *learn* how to do it.
 
+## See also
+
+The [Robinson STEM Soc Google Drive](https://drive.google.com/drive/folders/1hz-tyJIa6ZYN6uniUTtXFgXNkmX94qEc?usp=sharing) contains useful study material, including annotated handouts, notes, and worked solutions to examples papers and past tripos. **Please contribute** by debugging or updating the folder contents to align with current teaching, but be careful when deleting anything.
+
 ## Acknowledgements
 
 - 感谢[上海交通大学生存指南](https://github.com/SurviveSJTU/SurviveSJTUManual)使我的大学生活格局打开。
