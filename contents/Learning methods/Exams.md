@@ -18,9 +18,9 @@ Know how your 'final degree grade' is calculated. For example, Part IA grades ac
 >
 >Things are often easier said than done.
 
-Don't stress if you can't achieve everthing mentioned below. One fails the Tripos only if one does not treat the university as a place to study. However, a top 15% or 5% ranking requires hard work.
+Don't stress if you can't achieve everything mentioned below. One fails the Tripos only if one does not treat the university as a place to study. However, a top 15% or 5% ranking requires hard work.
 
-Planning is crucial. Making revision 'progress bars' on a piece of A4 paper lets you know precicely how much work needs to be done for each course, and how much you have already done. Also, it is very satisfying to fill the progress bar a little bit more at the end of each day.
+Planning is crucial. Making revision 'progress bars' on a piece of A4 paper lets you know precisely how much work needs to be done for each course, and how much you have already done. Also, it is very satisfying to fill the progress bar a little bit more at the end of each day.
 
 Keep flexibility in mind when planning. While too much flexibility makes a loose plan, a plan is seldom realisable without redundancies.
 
@@ -81,7 +81,7 @@ $$
 \text{ability} = \text{work hour} \times \text{efficiency}
 $$
 
-The fluxuation is typically 5% to 10% of your grade, due to marking uncertainties such as tired markers. This you cannot control, but you can increase your ability.
+The fluctuation is typically 5% to 10% of your grade, due to marking uncertainties such as tired markers. This you cannot control, but you can increase your ability.
 
 In the Tripos context, efficiency is key to increasing academic aptitude. Sitting in the library is not studying, by itself. A regular pattern of 65-90 minutes' study and 15-30 minutes' break maintains efficiency.
 
